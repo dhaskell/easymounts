@@ -13,7 +13,6 @@ Example:
 	Jump: 0.7
 	Armor: Iron
 	Color: Black
-	
 ```
 
 These items will summon/dismiss your mount when used allowing you to keep it safely in your inventory.
