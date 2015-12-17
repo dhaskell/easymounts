@@ -4,6 +4,7 @@ Initial repo for a new MC Spigot plugin I'll be working on that enhances the way
 
 * **The Basics**
 
+
 The plugin will detect the use of special saddle items. These will be regular saddles but have a customized name as well as stats.
 
 Example:
