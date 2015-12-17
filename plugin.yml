@@ -1,0 +1,5 @@
+main: easymounts.main
+name: Easymounts
+version: 0.1
+author: cragnore
+description: Plugin that allows mount items.
