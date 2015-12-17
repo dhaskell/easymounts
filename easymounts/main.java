@@ -13,7 +13,6 @@ public class main extends JavaPlugin {
 				+ pdfFile.getVersion() + " has been Enabled");
 		PluginManager pm = getServer().getPluginManager();
 		pm.registerEvents(new easymountsListener(this), this);
-		this.folderVerify();
 
 //		getCommand("command").setExecutor(this);
 	}
