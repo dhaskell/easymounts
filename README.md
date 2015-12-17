@@ -1,5 +1,5 @@
 # Easymounts
-Initial repo for a new MC Spigot plugin I'll be working on that enhances the way mounts work in game.
+Initial repo for a new MC Spigot plugin I'll be working on that enhances the way mounts work in game. Literally none of this id developed so far, I've only populated the repo with some placeholder code.
 
 
 ### The Basics
